@@ -10,3 +10,4 @@
 ## Protocol
 
 * [Protocol overview](protocol/overview.md)
+* [Anchor vaults](protocol/anchor-vaults.md)
