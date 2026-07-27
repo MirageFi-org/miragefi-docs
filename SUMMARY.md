@@ -12,3 +12,4 @@
 * [Protocol overview](protocol/overview.md)
 * [Anchor vaults](protocol/anchor-vaults.md)
 * [Pricing and spreads](protocol/pricing-and-spreads.md)
+* [Trading regimes](protocol/trading-regimes.md)
