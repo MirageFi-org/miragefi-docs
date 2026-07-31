@@ -16,3 +16,4 @@
 * [RFQ settlement](protocol/rfq.md)
 * [Routing](protocol/routing.md)
 * [Liquidity provision](protocol/liquidity-provision.md)
+* [Corporate actions and dividends](protocol/corporate-actions.md)
