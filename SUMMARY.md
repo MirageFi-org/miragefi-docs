@@ -17,3 +17,4 @@
 * [Routing](protocol/routing.md)
 * [Liquidity provision](protocol/liquidity-provision.md)
 * [Corporate actions and dividends](protocol/corporate-actions.md)
+* [Fees](protocol/fees.md)
