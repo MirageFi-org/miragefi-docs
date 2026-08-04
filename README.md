@@ -23,3 +23,22 @@ A generic AMM derives its price from the reserves it holds. For assets whose pri
 | Fees               | Buried in the curve                             | Itemised on each quote and published on-chain                        |
 
 For crypto-native pairs, constant-product pools are the right instrument. For assets that have an authoritative external price, set trading hours and corporate actions, they give value away to arbitrageurs and wander from fair value during thin weekends. Such assets need RWA-native market structure, and MirageFi fills that gap.
+
+## Key facts
+
+| | |
+| --- | --- |
+| Chain | Robinhood Chain (Arbitrum Nitro L2, chain ID 4663) |
+| Quote asset | USDG (Paxos Global Dollar) |
+| Launch assets | Robinhood Stock Tokens |
+| Next assets | Long-tail Stock Tokens, followed by tokenized treasuries and gold (see the [Asset roadmap](assets/asset-roadmap.md)) |
+| Execution | Oracle-anchored vaults for standard size, RFQ for block size, a single router |
+| Pricing | Chainlink Data Feeds and Data Streams, aware of the session, guarded |
+| Custody | None. Funds move at settlement only; immutable contracts hold vault inventory |
+| Fees | One itemised protocol fee; no hidden share of the spread |
+
+## What MirageFi does not do
+
+* Take custody of user assets or convert fiat.
+* Issue, mint or redeem RWAs. MirageFi is secondary-market infrastructure built over assets that regulated issuers issue.
+* Provide margin, leverage or perpetuals.
