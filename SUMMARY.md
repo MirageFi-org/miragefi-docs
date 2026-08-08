@@ -24,3 +24,4 @@
 * [Stock Tokens](assets/stock-tokens.md)
 * [Listing framework](assets/listing-framework.md)
 * [Quote asset: USDG](assets/usdg.md)
+* [Asset roadmap](assets/asset-roadmap.md)
