@@ -25,3 +25,7 @@
 * [Listing framework](assets/listing-framework.md)
 * [Quote asset: USDG](assets/usdg.md)
 * [Asset roadmap](assets/asset-roadmap.md)
+
+## Risk
+
+* [Risk framework](risk/framework.md)
