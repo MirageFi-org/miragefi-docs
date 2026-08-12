@@ -31,3 +31,4 @@
 * [Risk framework](risk/framework.md)
 * [Oracles and market sessions](risk/oracles.md)
 * [Sequencer and chain risk](risk/sequencer-and-chain.md)
+* [Issuer risk](risk/issuer.md)
