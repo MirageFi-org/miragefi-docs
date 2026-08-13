@@ -32,3 +32,4 @@
 * [Oracles and market sessions](risk/oracles.md)
 * [Sequencer and chain risk](risk/sequencer-and-chain.md)
 * [Issuer risk](risk/issuer.md)
+* [Lessons from RWA trading](risk/lessons.md)
