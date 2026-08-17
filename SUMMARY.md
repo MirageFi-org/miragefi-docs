@@ -37,3 +37,4 @@
 ## Robinhood Chain
 
 * [Why Robinhood Chain](chain/why-robinhood-chain.md)
+* [Network details](chain/network-details.md)
