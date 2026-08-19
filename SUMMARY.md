@@ -43,3 +43,4 @@
 ## Architecture
 
 * [System overview](architecture/overview.md)
+* [Smart contracts](architecture/smart-contracts.md)
