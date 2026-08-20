@@ -45,3 +45,4 @@
 * [System overview](architecture/overview.md)
 * [Smart contracts](architecture/smart-contracts.md)
 * [Off-chain services](architecture/off-chain-services.md)
+* [Eligibility registry](architecture/eligibility.md)
