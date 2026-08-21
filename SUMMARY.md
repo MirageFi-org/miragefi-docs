@@ -46,3 +46,4 @@
 * [Smart contracts](architecture/smart-contracts.md)
 * [Off-chain services](architecture/off-chain-services.md)
 * [Eligibility registry](architecture/eligibility.md)
+* [API and SDK](architecture/api.md)
