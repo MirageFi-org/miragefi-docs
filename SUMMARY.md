@@ -48,3 +48,4 @@
 * [Eligibility registry](architecture/eligibility.md)
 * [API and SDK](architecture/api.md)
 * [Security programme](architecture/security.md)
+* [Deployment](architecture/deployment.md)
