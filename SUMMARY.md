@@ -49,3 +49,4 @@
 * [API and SDK](architecture/api.md)
 * [Security programme](architecture/security.md)
 * [Deployment](architecture/deployment.md)
+* [Platform](architecture/platform.md)
