@@ -54,3 +54,4 @@
 ## Using MirageFi
 
 * [For traders](users/traders.md)
+* [For liquidity providers](users/liquidity-providers.md)
