@@ -55,3 +55,4 @@
 
 * [For traders](users/traders.md)
 * [For liquidity providers](users/liquidity-providers.md)
+* [For market makers](users/market-makers.md)
