@@ -57,3 +57,7 @@
 * [For liquidity providers](users/liquidity-providers.md)
 * [For market makers](users/market-makers.md)
 * [Trade explorer](users/trade-explorer.md)
+
+## Compliance
+
+* [Compliance model](compliance/model.md)
