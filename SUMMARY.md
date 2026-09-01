@@ -62,3 +62,7 @@
 
 * [Compliance model](compliance/model.md)
 * [Corporate structure](compliance/corporate-structure.md)
+
+## Transparency
+
+* [Commitments](transparency/commitments.md)
