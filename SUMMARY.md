@@ -67,3 +67,4 @@
 
 * [Commitments](transparency/commitments.md)
 * [Execution quality](transparency/execution-quality.md)
+* [Parameter governance](transparency/governance.md)
