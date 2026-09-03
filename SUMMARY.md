@@ -72,3 +72,7 @@
 ## Roadmap
 
 * [What is live and what is next](roadmap/phases.md)
+
+## Resources
+
+* [Business model](resources/business-model.md)
