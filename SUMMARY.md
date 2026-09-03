@@ -76,3 +76,4 @@
 ## Resources
 
 * [Business model](resources/business-model.md)
+* [FAQ](resources/faq.md)
