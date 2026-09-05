@@ -78,3 +78,4 @@
 * [Business model](resources/business-model.md)
 * [FAQ](resources/faq.md)
 * [Brand and links](resources/brand.md)
+* [Sources and references](resources/sources.md)
