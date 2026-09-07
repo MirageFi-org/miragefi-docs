@@ -42,3 +42,11 @@ For crypto-native pairs, constant-product pools are the right instrument. For as
 * Take custody of user assets or convert fiat.
 * Issue, mint or redeem RWAs. MirageFi is secondary-market infrastructure built over assets that regulated issuers issue.
 * Provide margin, leverage or perpetuals.
+
+## Where to go next
+
+* If the venue is new to you: begin with [Why now](introduction/why-now.md) and [Design principles](introduction/design-principles.md).
+* If you want the mechanics: read the [Protocol overview](protocol/overview.md), followed by [Anchor vaults](protocol/anchor-vaults.md), [Pricing and spreads](protocol/pricing-and-spreads.md) and [Trading regimes](protocol/trading-regimes.md).
+* If you are building on MirageFi or integrating with it: see [System overview](architecture/overview.md), [Smart contracts](architecture/smart-contracts.md) and [API and SDK](architecture/api.md).
+* If you are assessing risk: see the [Risk framework](risk/framework.md) and [Lessons from RWA trading](risk/lessons.md).
+* If you are trading or providing liquidity: see [For traders](users/traders.md) and [For liquidity providers](users/liquidity-providers.md).
