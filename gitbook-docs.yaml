@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+
+site:
+  title: MirageFi
+  structure:
+    - type: space
+      key: space-docs
+      title: MirageFi Docs
+      path: docs
+      default: true
+      content:
+        directory: ./
